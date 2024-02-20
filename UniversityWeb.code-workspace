@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "UniversityWeb",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../PortfolioFinal-2/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UniversityWeb"
+	}
+}
